@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.flex {
+    display: flex;
+}
+
+header {
+    width: 100%;
+}
+
+.main {
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.user-name {
+    position: absolute;
+    color: white;
+}
