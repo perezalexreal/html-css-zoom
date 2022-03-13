@@ -113,6 +113,14 @@ footer {
 .fas {
     margin-bottom: 5px;
 }
+.ft.ft-right {
+    height: 80px;
+    padding: 0 10px;
+    background-color: #4a4a4a;
+    color: red;
+    align-items: center;
+}
+
 
 .fas.fa-angle-up {
     font-size: 10px;
@@ -121,14 +129,6 @@ footer {
 }
 
 .fa-share-square {
-    color: #00cd29;
-}
-
-.ft.ft-right {
-    height: 80px;
-    padding: 0 10px;
-    background-color: #4a4a4a;
-    color: red;
-    align-items: center;
+    color: #0acf32;
 }
 
